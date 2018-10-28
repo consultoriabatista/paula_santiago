@@ -68,3 +68,4 @@ no capybara pode usar o all
 
 @lista = find('table > tbody > tr').all
 @lista[2].click
+
